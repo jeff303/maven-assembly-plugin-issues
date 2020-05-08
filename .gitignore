@@ -1,0 +1,21 @@
+# Git
+*.rej
+*.orig
+
+# Byte-compiled / optimized / system related files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Maven
+target
+
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea
+
